@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mintest/static/css/main.b1b2b23a.chunk.css",
-    "main.js": "/Mintest/static/js/main.6d901c63.chunk.js",
-    "main.js.map": "/Mintest/static/js/main.6d901c63.chunk.js.map",
+    "main.js": "/Mintest/static/js/main.8190e6d9.chunk.js",
+    "main.js.map": "/Mintest/static/js/main.8190e6d9.chunk.js.map",
     "runtime-main.js": "/Mintest/static/js/runtime-main.3d0f8cbf.js",
     "runtime-main.js.map": "/Mintest/static/js/runtime-main.3d0f8cbf.js.map",
     "static/js/2.7565aabf.chunk.js": "/Mintest/static/js/2.7565aabf.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/Mintest/index.html",
     "static/css/main.b1b2b23a.chunk.css.map": "/Mintest/static/css/main.b1b2b23a.chunk.css.map",
     "static/js/2.7565aabf.chunk.js.LICENSE.txt": "/Mintest/static/js/2.7565aabf.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/Mintest/static/media/1.75f03515.png",
+    "static/media/1.94bbbbfa.png": "/Mintest/static/media/1.94bbbbfa.png",
     "static/media/reset.css": "/Mintest/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3d0f8cbf.js",
     "static/js/2.7565aabf.chunk.js",
     "static/css/main.b1b2b23a.chunk.css",
-    "static/js/main.6d901c63.chunk.js"
+    "static/js/main.8190e6d9.chunk.js"
   ]
 }
